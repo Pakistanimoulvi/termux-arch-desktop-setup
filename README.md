@@ -17,7 +17,7 @@ An automated bash script tailored for rootless Termux PRoot environments to inst
 
 1. **Download and Run the Script:**
 ```bash
-curl -O https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/termux-arch-desktop-setup/main/setup.sh
+curl -O https://raw.githubusercontent.com/Pakistanimoulvi/termux-arch-desktop-setup/main/setup.sh
 chmod +x setup.sh
 ./setup.sh
 
